@@ -1,1 +1,1 @@
-REPO-OWNED: this file was edited by hand.
+FULL-SOURCE: whole file owned by sync for testbed-multi-org (strspc-e2e).
